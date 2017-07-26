@@ -38,3 +38,7 @@
     background-color: transparent;
     color: white;
 }
+
+div.hidden {
+    display: none
+}
